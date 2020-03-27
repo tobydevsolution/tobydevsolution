@@ -1,0 +1,9 @@
+/* Now here is the styling page called style.css */
+
+.container {
+    text-align: left;
+    width: 600px;
+    height: 1000px;
+    /* border: 1px solid red; */
+    margin: auto;
+}

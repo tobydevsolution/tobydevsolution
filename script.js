@@ -1,0 +1,1 @@
+// Welcome to the scripting page to write javascript
